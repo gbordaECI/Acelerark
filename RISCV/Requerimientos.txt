@@ -1,9 +1,17 @@
-Alcance
+1. Alcance
 
-Objetivo:
+1.1. Objetivo:
 
 Desarrollar un microprocesador que cumpla las especificaciones de RISC-V RV32I sobre una FPGA
 
-Entregables:
+1.2. Entregables:
 
-1- 
+a. Arquitectura de hardware
+b. Descripción en VHDL y Verilog
+c. Implementación y pruebas en tarjeta de prototipado
+d. Diseño del circuito impreso
+e. Fabricación del circuito impreso
+f. Ensamblaje y pruebas finales
+g. Documentación de cada etapa del proceso
+
+
